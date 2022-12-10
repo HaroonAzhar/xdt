@@ -26,6 +26,13 @@
       },
       "isPublic": {
         "boolean": {}
+      },
+      "updated_at":{
+        "date":{}
+      }
+      ,
+      "created_at":{
+        "date":{}
       }
     }
   }
