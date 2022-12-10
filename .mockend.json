@@ -28,11 +28,11 @@
         "boolean": {}
       },
       "updated_at":{
-        "date":{}
+        "dateTime":{}
       }
       ,
       "created_at":{
-        "date":{}
+        "dateTime":{}
       }
     }
   }
